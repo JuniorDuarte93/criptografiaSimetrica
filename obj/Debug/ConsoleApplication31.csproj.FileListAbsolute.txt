@@ -1,0 +1,2 @@
+c:\users\mariajosineidedefrei\documents\visual studio 2012\Projects\ConsoleApplication31\ConsoleApplication31\bin\Debug\ConsoleApplication31.exe.config
+C:\Users\mariajosineidedefrei\Desktop\ConsoleApplication31\ConsoleApplication31\bin\Debug\ConsoleApplication31.exe.config
